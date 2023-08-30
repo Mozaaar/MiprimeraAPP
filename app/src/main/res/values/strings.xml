@@ -2,5 +2,7 @@
     <string name="app_name" translatable="false">Mi primera App</string>
     <string name="mensaje_txt">Welcome</string>
     <string name="imagen_descripcion_txt">Fairy image</string>
+    <string name="aceptar_btn">Aecptar</string>
+    <string name="mensaje1_txt">Welcome to my first App</string>
 
 </resources>

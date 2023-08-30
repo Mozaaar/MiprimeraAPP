@@ -2,4 +2,6 @@
 <resources>
     <string name="mensaje_txt">¡Bienvenido!</string>
     <string name="imagen_descripcion_txt">Imagen de hada</string>
+    <string name="aceptar_btn">Aecptar</string>
+    <string name="mensaje1_txt">Bienvenidos a mi primera App</string>
 </resources>

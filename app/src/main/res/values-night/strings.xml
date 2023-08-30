@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="aceptar_btn">Aecptar</string>
+    <string name="mensaje1_txt">Welcome to my first App</string>
+</resources>
